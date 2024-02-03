@@ -1,3 +1,5 @@
+1.We created a advenced java project using servlet Jsp.
+2.I means Arindol Ghosh created this project.
 ![image](https://github.com/arindolghosh44/ebook/assets/144908811/cf25b756-d6d0-4b49-8346-fa8534100416)
 ![image](https://github.com/arindolghosh44/ebook/assets/144908811/69b048ce-7442-42e1-8703-19c9ad2e3615)
 ![image](https://github.com/arindolghosh44/ebook/assets/144908811/683eeee4-d85d-4388-a4fc-342a42e433f2)
